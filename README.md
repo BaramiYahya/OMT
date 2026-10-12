@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on developing micro-SaaS platforms, IoT integrations like the SolarLink system, and building brand assets for 2Tech Agency.<br>👯 I’m looking to collaborate on full-stack web development projects utilizing React, Node.js, PHP, and Laravel, as well as software development observation internships in Marrakech.<br>🤝 I’m looking for help with exploring higher education pathways that bridge computer science and management, such as MIAGE programs and master's degree options.<br>🌱 I’m currently learning advanced cloud deployment solutions while simultaneously pursuing my specialized technician diploma in full-stack development and studying business management.<br>💬 Ask me about JavaScript, TypeScript, Python, C#, or designing comprehensive digital ecosystems like AtlasLink.<br>⚡ Fun fact: I balance coding and university with a strict 4-day upper and lower body split strength training routine, and I code, speak, and write across four languages.
-
+      
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yahiaa__1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yahya Barami) 
